@@ -16,7 +16,7 @@
         "getPrices": "Get Prices"
     },
     "priceSummary": {
-        "title": "Price Summary",
+        "title": "Price Summary (₹/quintal)",
         "selectFilters": "Select filters and click \"Get Prices\"",
         "commodity": "Commodity:",
         "district": "District:",
@@ -79,9 +79,9 @@
         "date": "Date",
         "commodity": "Commodity",
         "district": "District",
-        "minPrice": "Min Price",
-        "maxPrice": "Max Price",
-        "modalPrice": "Modal Price",
+        "minPrice": "Min Price (₹/quintal)",
+        "maxPrice": "Max Price (₹/quintal)",
+        "modalPrice": "Modal Price (₹/quintal)",
         "selectFilters": "Select filters and click \"Get Prices\""
     },
     "charts": {
